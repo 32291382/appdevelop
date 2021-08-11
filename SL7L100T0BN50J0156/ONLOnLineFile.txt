@@ -1,1 +1,0 @@
-Windows 10 (version 10.0) x64
