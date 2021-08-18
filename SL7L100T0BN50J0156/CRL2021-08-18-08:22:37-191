@@ -1,0 +1,92 @@
+--------cmd "ipconfig /all"performed successfully -----------
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-LFLODLL
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : lan
+
+Ethernet adapter FCN Network Adapter:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : FCN Virtual Adapter
+   Physical Address. . . . . . . . . : 02-50-94-31-5B-34
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter vEthernet (Default Switch):
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Physical Address. . . . . . . . . : 00-15-5D-6C-BC-91
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::508:f1d2:3ec7:fe26%36(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 172.18.16.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 603985245
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-27-11-D1-2D-18-C0-4D-2E-06-1C
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter 以太网:
+
+   Connection-specific DNS Suffix  . : lan
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (11) I219-V
+   Physical Address. . . . . . . . . : 18-C0-4D-2E-06-1C
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::9ca5:a23a:d065:e9bc%11(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.154.118(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 2021年8月18日 8:05:44
+   Lease Expires . . . . . . . . . . : 2021年8月18日 20:05:42
+   Default Gateway . . . . . . . . . : 192.168.154.1
+   DHCP Server . . . . . . . . . . . : 192.168.154.1
+   DHCPv6 IAID . . . . . . . . . . . : 51953741
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-27-11-D1-2D-18-C0-4D-2E-06-1C
+   DNS Servers . . . . . . . . . . . : 192.168.154.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet1
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-01
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::d9e1:3caf:d2b4:3488%12(Preferred) 
+   Autoconfiguration IPv4 Address. . : 169.254.52.136(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 117461078
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-27-11-D1-2D-18-C0-4D-2E-06-1C
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet8
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-08
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::c0f7:d348:49f3:a9c8%10(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.80.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 369119318
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-27-11-D1-2D-18-C0-4D-2E-06-1C
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
