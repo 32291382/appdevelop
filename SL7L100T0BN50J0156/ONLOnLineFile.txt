@@ -1,0 +1,1 @@
+{"serverid":"SL7L100T0BN50J0156","computername":"DESKTOP-LFLODLL","username":"unknown","OS":"Windows 10 (version 10.0) x64","IP":"unknown","heartbeat":true,"proxy":"unknown","onlinetime":"2021-08-23-15:44:13-150"}
